@@ -1,0 +1,12 @@
+C:\Users\Davi\source\repos\prova\Servicos\bin\Debug\net8.0-windows10.0.19041.0\Servicos.deps.json
+C:\Users\Davi\source\repos\prova\Servicos\bin\Debug\net8.0-windows10.0.19041.0\Servicos.dll
+C:\Users\Davi\source\repos\prova\Servicos\bin\Debug\net8.0-windows10.0.19041.0\Servicos.pdb
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\Servicos.csproj.AssemblyReference.cache
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\Servicos.AssemblyInfoInputs.cache
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\Servicos.AssemblyInfo.cs
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\Servicos.csproj.CoreCompileInputs.cache
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\Servicos.dll
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\refint\Servicos.dll
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\Servicos.pdb
+C:\Users\Davi\source\repos\prova\Servicos\obj\Debug\net8.0-windows10.0.19041.0\ref\Servicos.dll

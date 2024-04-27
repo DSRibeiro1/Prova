@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="prova.ShareDetails"
+             Title="Descrição da ação"
+             BackgroundColor= "#98FB98">
+
+    <VerticalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <Image x:Name="Logotipo"
+               Source="moeda.jpg"
+               HeightRequest="250"
+               Aspect="AspectFit"
+               VerticalOptions="CenterAndExpand"
+               SemanticProperties.Description="dot net bot in a race car number eight" />
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <Label Grid.Row="0" Grid.Column="0"  x:Name="ShortName"></Label>            
+            <Label Grid.Row="1" Grid.Column="1"  x:Name="LongName"></Label>
+            <Label Grid.Row="2" Grid.Column="2"  x:Name="Marketcap"></Label>
+            <Label Grid.Row="3" Grid.Column="3"  x:Name="Value"></Label>
+            <Label Grid.Row="4" Grid.Column="4"  x:Name="RegularMarketChange"></Label>
+            <Label Grid.Row="5" Grid.Column="5"  x:Name="RegularMarketOpen"></Label>
+
+
+        </Grid>
+    
+                
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,12 @@
+C:\Users\Davi\source\repos\prova\Integracao\bin\Debug\net8.0-windows10.0.19041.0\Integracao.deps.json
+C:\Users\Davi\source\repos\prova\Integracao\bin\Debug\net8.0-windows10.0.19041.0\Integracao.dll
+C:\Users\Davi\source\repos\prova\Integracao\bin\Debug\net8.0-windows10.0.19041.0\Integracao.pdb
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\Integracao.csproj.AssemblyReference.cache
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\Integracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\Integracao.AssemblyInfoInputs.cache
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\Integracao.AssemblyInfo.cs
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\Integracao.csproj.CoreCompileInputs.cache
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\Integracao.dll
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\refint\Integracao.dll
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\Integracao.pdb
+C:\Users\Davi\source\repos\prova\Integracao\obj\Debug\net8.0-windows10.0.19041.0\ref\Integracao.dll

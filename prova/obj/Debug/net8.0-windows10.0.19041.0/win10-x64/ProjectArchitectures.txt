@@ -1,0 +1,4 @@
+C:\Users\Davi\source\repos\prova\Dominio\Dominio.csproj;neutral
+C:\Users\Davi\source\repos\prova\Integracao\Integracao.csproj;neutral
+C:\Users\Davi\source\repos\prova\prova\prova.csproj;x64
+C:\Users\Davi\source\repos\prova\Servicos\Servicos.csproj;neutral
